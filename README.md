@@ -1,2 +1,3 @@
-# SteelWheel_BLDC_Driver_01
-Steelwheel Motor Driver Hardware, Pancake Motor v0.1
+# Little Piece Of Chicken
+Bare Metal Development Board for NXP LPC1100XL (ARM Cortex M0) series parts.
+Includes BOM and example code.
